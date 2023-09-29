@@ -1,7 +1,7 @@
 site_name: NoahHsu's Software Engineer Ark
 site_url: https://noahhsu.github.io/
 repo_url: https://github.com/NoahHsu/noahhsu.github.io
-edit_uri_template: '/edit/main/docs/{path}'
+edit_uri: 'edit/main/docs/'
 
 site_author: NoahHsu
 
